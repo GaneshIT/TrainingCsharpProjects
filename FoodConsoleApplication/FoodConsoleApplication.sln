@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodConsoleApplication", "FoodConsoleApplication\FoodConsoleApplication.csproj", "{515AD95C-0313-46E2-BAAC-879551146C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodMgmtLibrary", "FoodMgmtLibrary\FoodMgmtLibrary.csproj", "{8F53DFA4-64A0-467D-810B-90DD4F6C8324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515AD95C-0313-46E2-BAAC-879551146C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515AD95C-0313-46E2-BAAC-879551146C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515AD95C-0313-46E2-BAAC-879551146C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515AD95C-0313-46E2-BAAC-879551146C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F53DFA4-64A0-467D-810B-90DD4F6C8324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F53DFA4-64A0-467D-810B-90DD4F6C8324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F53DFA4-64A0-467D-810B-90DD4F6C8324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F53DFA4-64A0-467D-810B-90DD4F6C8324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09108A0-28BE-4DC8-B3D8-ACDDA22CCC97}
+	EndGlobalSection
+EndGlobal
